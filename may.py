@@ -1,2 +1,2 @@
 print("hello!")
-prin(2+2)
+prin(3+2)
